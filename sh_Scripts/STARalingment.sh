@@ -44,7 +44,7 @@ cd $directory/TrimFiles
 for sample in $directory/TrimFiles/*.fq ; do
   echo ${sample}
    describer=$(basename -s .fastq $sample)
-#En la documentación de estar viene explicado todas las opciones utilizadas
+# Ejecución del programa STAR
    	STAR --runThreadN 16 --genomeDir $genomeSTAR --genomeLoad LoadAndKeep --limitBAMsortRAM 200000000000\
       	--readFilesIn $sample \
       	--outFileNamePrefix ${describer}_ \
