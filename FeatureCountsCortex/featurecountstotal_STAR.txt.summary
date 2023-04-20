@@ -1,0 +1,15 @@
+Status	/home/LAB/lab_glb_2/omicos2/analisis_neurons_cortex/filesSTAR/BAMfiles/P1_CX1_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons_cortex/filesSTAR/BAMfiles/P1_CX2_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons_cortex/filesSTAR/BAMfiles/P1_CX3_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons_cortex/filesSTAR/BAMfiles/P1_CX4_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons_cortex/filesSTAR/BAMfiles/P1_CX5_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons_cortex/filesSTAR/BAMfiles/P1_CX6_Aligned.sortedByCoord.out.bam
+Assigned	30750313	41072797	45459642	39492896	45477923	36395181
+Unassigned_Unmapped	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	4085519	5484901	7250761	6141689	5662528	4430109
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	4950824	6224262	4877061	4256157	6702830	5394603
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0

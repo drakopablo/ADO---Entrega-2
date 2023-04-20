@@ -1,0 +1,15 @@
+Status	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/CXa_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/CXb_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/CXc_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/CXd_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/DLGa_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/DLGb_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/DLGc_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/DLGd_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/DLGe_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/MGVa_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/MGVb_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/MGVc_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/MGVd_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/VPMa_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/VPMb_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/VPMc_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_astrocytes/filesSTAR/BAMfiles/VPMd_trimmed.fq_Aligned.sortedByCoord.out.bam
+Assigned	52698051	22184577	21151249	21547576	21037098	21913986	22383501	21084227	20012631	20842486	19801598	21338598	22346312	22552824	19104670	21931462	21824458
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	25521308	10589457	10148862	10413694	11454589	10135226	10579264	9820192	13059758	10658483	11872650	9039545	10364283	11857933	12370946	12203164	11199531
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	5371583	2184664	2514842	2011327	3682809	2483383	2500201	1915417	3441421	3732970	3633293	3269904	2066359	1982236	3714043	2161501	2191274
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
