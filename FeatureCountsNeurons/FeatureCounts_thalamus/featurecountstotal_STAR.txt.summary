@@ -1,0 +1,15 @@
+Status	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_DLG1_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_DLG2_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_DLG3_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_DLG4_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_MGV1_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_MGV2_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_MGV3_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_VPM1_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_VPM2_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_VPM3_trimmed.fq_Aligned.sortedByCoord.out.bam	/home/LAB/lab_glb_2/omicos2/analisis_neurons/filesSTAR/BAMfiles/P0_TOM_VPM4_trimmed.fq_Aligned.sortedByCoord.out.bam
+Assigned	16579577	23726841	19005424	20654600	13755965	11827390	10631290	22649026	24572620	19650260	21284500
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	16232212	22757377	20090642	18518416	13861884	12260872	9398677	20162787	22825864	25674933	18845709
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	2257017	2094684	2227711	3001801	2722585	1538435	991864	2213890	2174937	2722838	2726413
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0
